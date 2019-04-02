@@ -19,10 +19,10 @@
       <file pinned="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+            <state relative-caret-position="362">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
               <folding>
-                <marker date="1552611351336" expanded="true" signature="1540:1542" ph="..." />
+                <marker date="1554169237387" expanded="true" signature="2584:2586" ph="..." />
               </folding>
             </state>
           </provider>
@@ -39,6 +39,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>delete_client</find>
       <find>update_client</find>
     </findStrings>
     <replaceStrings>
@@ -89,7 +90,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,6 +101,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,8 +213,8 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4893617" visible="true" weight="0.11434237" />
-      <window_info id="Structure" order="1" sideWeight="0.5106383" side_tool="true" visible="true" weight="0.11434237" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48758864" visible="true" weight="0.11434237" />
+      <window_info id="Structure" order="1" sideWeight="0.51241136" side_tool="true" visible="true" weight="0.11434237" />
       <window_info id="Favorites" order="2" sideWeight="0.50199205" side_tool="true" weight="0.12623926" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -223,7 +224,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32882273" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32882273" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32162163" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.31903484" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50065106" side_tool="true" weight="0.32421875" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32751676" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -242,10 +243,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        <state relative-caret-position="362">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
           <folding>
-            <marker date="1552611351336" expanded="true" signature="1540:1542" ph="..." />
+            <marker date="1554169237387" expanded="true" signature="2584:2586" ph="..." />
           </folding>
         </state>
       </provider>
